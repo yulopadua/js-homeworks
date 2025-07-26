@@ -1,0 +1,23 @@
+{
+  "name": "js-homeworks",
+  "version": "1.0.0",
+  "main": "homework01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulopadua/js-homeworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulopadua/js-homeworks/issues"
+  },
+  "homepage": "https://github.com/yulopadua/js-homeworks#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
